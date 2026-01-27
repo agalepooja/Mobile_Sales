@@ -1,57 +1,91 @@
-📊 Mobile Sales Dashboard
+📱 Mobile Sales Analysis Dashboard 
+📌 Project Overview
 
-This project is a Power BI Mobile Sales Dashboard designed to analyze mobile phone sales performance across different brands, models, regions, and time periods. The dashboard helps stakeholders quickly understand sales trends, revenue contribution, quantity sold, and customer purchasing behavior.
+This Power BI project presents an end-to-end Mobile Sales Analysis using interactive dashboards.
+It covers overall sales performance along with Same Period Last Year (YoY) comparison to help understand growth trends and business performance over time.
 
-🎯 Objectives
+🎯 Project Objectives
 
--Analyze overall sales performance
+Analyze mobile sales across cities, brands, and models
 
--Identify top-performing brands and models
+Track key KPIs like Sales, Quantity, Transactions, and Average Price
 
--Track monthly sales trends
+Identify monthly, quarterly, and yearly trends
 
--Compare payment methods and customer behavior
+Compare current sales vs same period last year
 
--Support data-driven business decisions
+Understand customer behavior through payment methods & ratings
 
-📈 Key KPIs
+📊 Key KPIs
 
-Total Sales – Overall revenue generated
+Total Sales: 769M
 
-Total Quantity – Total number of units sold
+Total Quantity Sold: 19K
 
-Total Transactions – Number of purchase transactions
+Total Transactions: 4K
 
-Average Price – Average selling price per unit
+Average Price: 40.11K
 
-📊 Dashboard Features
+📈 Overview Dashboard
 
-Brand-wise & Model-wise Analysis
+Total Sales by City (Map)
 
-Monthly Sales Trend
+Total Quantity by Month (Line Chart)
 
-Payment Method Distribution (UPI, Card, Cash, etc.)
+Customer Ratings by Rating Status
 
-Geographical Sales Analysis
+Transactions by Payment Method
 
-Interactive Filters & Slicers for better insights
+Sales by Brand (Table)
 
-🛠 Tools & Technologies Used
+Sales by Mobile Model
 
-Power BI Desktop
+Sales by Day Name
 
-Microsoft Excel / CSV (Data Source)
+2️⃣ Same Period Last Year (YoY) 
 
-DAX (for calculated measures)
+Total Sales vs Same Period Last Year by Year
 
-Data Cleaning & Transformation (Power Query)
+Total Sales vs Same Period Last Year by Quarter
 
-🧠 Insights Generated
+Total Sales vs Same Period Last Year by Month
 
-Identified top-selling mobile brands
+Time-based comparison using Year, Quarter, Month, Day
 
-Observed seasonal sales patterns
+🧮 DAX & Concepts Used
+
+SAMEPERIODLASTYEAR()
+
+DATEADD()
+
+Time Intelligence
+
+CALCULATE() & FILTER()
+
+KPI Measures
+
+Data Modeling
+
+🛠 Tools & Technologies
+
+Power BI
+
+DAX
+
+Excel / CSV Dataset
+
+Data Cleaning & Transformation
+
+🚀 Key Insights
+
+Identified top-performing cities and brands
+
+Observed monthly sales peaks and drops
 
 Analyzed preferred payment methods
 
-Compared model-level performance
+Compared YoY growth to support business decisions
+
+
+
+

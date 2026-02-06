@@ -1,5 +1,4 @@
 📱 Mobile Sales Analysis Dashboard 
-📌 Project Overview
 
 This Power BI project presents an end-to-end Mobile Sales Analysis using interactive dashboards.
 It covers overall sales performance along with Same Period Last Year (YoY) comparison to help understand growth trends and business performance over time.
@@ -65,16 +64,6 @@ CALCULATE() & FILTER()
 KPI Measures
 
 Data Modeling
-
-🛠 Tools & Technologies
-
-Power BI
-
-DAX
-
-Excel / CSV Dataset
-
-Data Cleaning & Transformation
 
 🚀 Key Insights
 
